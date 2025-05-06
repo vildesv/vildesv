@@ -1,4 +1,6 @@
-* 👋 Hi, my name is Vilde
+### Hi there 👋
+* 👩 My name is Vilde
+* 📫 Located in Skien, Norway
 * 👀 I'm interested in programming, gaming and art
-* 🌱 I’m currently learning back-end development
-* 📫 How to reach me: vilde_svenkesen@hotmail.no
+* 🌱 I’m currently learning about responsive web design
+* 💬 How to reach me: ...
