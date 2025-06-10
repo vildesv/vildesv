@@ -2,9 +2,8 @@
 * 👩 Vilde (she/her), 30y
 * 👀 On the autism spectrum
 * ❤️ Passionate about tech, programming, gaming and art
-* 🔭 Course participant at KodeHode Porsgrunn
+* 🔭 Course participant at Kodehode Porsgrunn
 * 🌱 Currently learning JavaScript
-
 
 ---
 
