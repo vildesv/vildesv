@@ -17,7 +17,7 @@
 
 ---
 
-Besides my interest in tech, I'm also a huge pokémon enthusiast and my favorite pokémon is Gengar. 
+Besides my interests listed above, I'm also a huge pokémon enthusiast and my favorite pokémon is Gengar. 
 
 ![image](https://github.com/user-attachments/assets/daeca9a8-c1fc-424f-9305-d27381e92686)
 ![image](https://github.com/user-attachments/assets/cc574b46-10dc-4692-b6f0-4e81e9eb6204)
