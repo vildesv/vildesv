@@ -3,7 +3,7 @@
 * 👀 On the autism spectrum
 * ❤️ Passionate about tech, programming, gaming and art
 * 🔭 Course participant at Kodehode Porsgrunn
-* 🌱 Currently learning React
+* 🌱 Currently learning Node and Express
 
 ---
 
