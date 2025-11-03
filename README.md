@@ -1,6 +1,8 @@
 <!-- MODERN DEVELOPER / BADGE STYLE README -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=7D78A3&center=true&vCenter=true&width=500&lines=Hi,+I%E2%80%99m+Vilde+%F0%9F%91%8B;Mission:+Fullstack+developer;Sidekick:+Gengar+%F0%9F%92%9C" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=7D78A3&center=true&vCenter=true&width=500&lines=Hi,+I%E2%80%99m+Vilde+%F0%9F%91%8B;Mission:+Fullstack+developer;Sidekick:+Gengar+%F0%9F%92%9C" />
+</p>
 
 ---
 
