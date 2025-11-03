@@ -6,10 +6,10 @@
 ---
 
 ### About Me
-✨ Level 30 dev on a quest to level up my coding skills  
-🎯 Currently XP farming in **Next.js**  
-🕹️ Gamer, Pokémon trainer and art lover  
-💡 On the **autism spectrum** — unlocking focus, creativity & logic every day
+💜 Junior dev on a quest to level up my coding skills  
+💜 Currently XP farming in **Next.js**  
+💜 Gamer, Pokémon trainer and art lover  
+💜 On the **autism spectrum** — unlocking focus, creativity & logic every day
 
 ---
 
