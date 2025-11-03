@@ -1,5 +1,4 @@
 <!-- MODERN DEVELOPER / BADGE STYLE README -->
-<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=7D78A3&center=true&vCenter=true&width=500&lines=Hi,+I%E2%80%99m+Vilde+%F0%9F%91%8B;Mission:+Fullstack+developer;Sidekick:+Gengar+%F0%9F%92%9C" />
 
@@ -35,10 +34,6 @@
 ### 🏆 Certifications  
 [Foundational C# With Microsoft](https://www.freecodecamp.org/certification/vildesvenkesen/foundational-c-sharp-with-microsoft) • [Responsive Web Design](https://www.freecodecamp.org/certification/vildesvenkesen/responsive-web-design)  
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/daeca9a8-c1fc-424f-9305-d27381e92686" width="50"/> 
-  <img src="https://github.com/user-attachments/assets/cc574b46-10dc-4692-b6f0-4e81e9eb6204" width="50"/> 
-  <img src="https://github.com/user-attachments/assets/c513955a-ca1c-4845-ae7a-3328fb1972c4" width="50"/>
-</p>
-
-</div>
+![Gengar](https://github.com/user-attachments/assets/daeca9a8-c1fc-424f-9305-d27381e92686) 
+![Pikachu](https://github.com/user-attachments/assets/cc574b46-10dc-4692-b6f0-4e81e9eb6204) 
+![Rayquaza](https://github.com/user-attachments/assets/c513955a-ca1c-4845-ae7a-3328fb1972c4)
