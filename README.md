@@ -28,7 +28,7 @@
 ---
 
 ### 🏆 Certifications  
-[Foundational C# With Microsoft](https://www.freecodecamp.org/certification/vildesvenkesen/foundational-c-sharp-with-microsoft) • [Responsive Web Design](https://www.freecodecamp.org/certification/vildesvenkesen/responsive-web-design)  
+[Foundational C# With Microsoft](https://www.freecodecamp.org/certification/vildesvenkesen/foundational-c-sharp-with-microsoft) • [Legacy Responsive Web Design V8](https://www.freecodecamp.org/certification/vildesvenkesen/responsive-web-design)  
 
 <p>
   <img src="https://github.com/user-attachments/assets/daeca9a8-c1fc-424f-9305-d27381e92686" width="50" alt="Gengar"/> 
