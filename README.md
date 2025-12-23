@@ -8,7 +8,7 @@
 
 ### About Me
 💜 Junior dev on a quest to level up my coding skills  
-💜 Currently XP farming in **Next.js**  
+💜 Currently XP farming in **Responsive Web Design**  
 💜 Gamer, Pokémon trainer and art lover  
 💜 On the **autism spectrum** — unlocking focus, creativity & logic every day
 
